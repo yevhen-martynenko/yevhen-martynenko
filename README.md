@@ -1,10 +1,65 @@
-### About me
+<h2 align="center">About Me</h2>
 
-Python Developer | Web Applications
+```python
+class YevhenMartynenko:
+    def __init__(self):
+        self.name = "Yevhen Martynenko"
+        self.title = "Python Backend Developer"
+        self.stack = ["Django", "DRF", "Flask"]
+        self.skills = ["REST APIs", "Scalable Web Apps", "Cybersecurity"]
+        self.contacts = {
+            "LinkedIn": "https://www.linkedin.com/in/yevhenmartynenko/",
+            "GitHub": "https://github.com/yevhen-martynenko",
+            "Gmail": "yevhen.martynenko.v@gmail.com",
+            "ProtonMail": "yevhen.martynenko@proton.me",
+            "Telegram": "@martinyev",
+        }
+
+    def about(self):
+        return (
+            """
+            I'm a Python Developer specializing in backend development with 
+            Django, DRF, and Flask.
+            
+            I focus on writing readable code, building strong APIs, and keeping
+            things fast and secure.
+            
+            I've been using Linux for over four years using Arch-based systems.
+            My daily driver is Manjaro with Sway WM and Neovim.
+            
+            Currently building SaaS projects and improving my skills by taking
+            online courses like Harvard's CS50.
+            
+            I'm open to new opportunities and collaboration.
+            """
+        )
+```
 
 
-### Languages
+<h2 align="center">Contacts</h2>
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenmartynenko/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/martinyev)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yevhen-martynenko)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yevhen.martynenko.v@gmail.com)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:yevhen.martynenko@proton.me)
+
+- [View My CV](./assets/Backend_Developer_YevhenMartynenko_CV.pdf)
+- [Personal Website](https://yevhen-martynenko.github.io)
+- Gmail: <a href="mailto:yevhen.martynenko.v@gmail.com">yevhen.martynenko.v@gmail.com</a>
+- ProtonMail: <a href="mailto:yevhen.martynenko@proton.me">yevhen.martynenko@proton.me</a>
+
+
+<h2 align="center">Languages</h2>
+
+<!------- Language levels ------->
+<!-- A1 - Beginner -->
+<!-- A2 - Elementary -->
+<!-- B1 - Intermediate -->
+<!-- B2 - Upper-Intermediate -->
+<!-- C1 - Advanced -->
+<!-- C2 - Proficient -->
+<!-- Native -->
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -26,7 +81,7 @@ Python Developer | Web Applications
 </div>
 
 
-### Stack and tools
+<h2 align="center">Stack and Tools</h2>
 
 <!-- Icons: https://devicon.dev -->
 <!-- Icons: https://simpleicons.org/ -->
