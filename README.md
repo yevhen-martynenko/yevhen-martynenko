@@ -214,3 +214,86 @@ class YevhenMartynenko:
     </td>
   </tr>
 </table>
+
+##### Misc:
+<table align="center">
+  <tr>
+    <td align="center" width="88">
+      <img src="./assets/images/other/markdown.svg" alt="markdown" width="44" height="44" />
+      <br>Markdown
+    </td>
+    <td align="center" width="88">
+      <img src="./assets/images/other/neovim.svg" alt="neovim" width="44" height="44" />
+      <br>Neovim
+    </td>
+    <td align="center" width="88">
+      <img src="./assets/images/other/arch.svg" alt="arch" width="44" height="44" />
+      <br>Arch btw
+    </td>
+    <td align="center" width="88">
+      <img src="./assets/images/other/sway.svg" alt="sway" width="44" height="44" />
+      <br>Sway
+    </td>
+    <td align="center" width="88">
+      <img src="./assets/images/other/arduino.svg" alt="arduino" width="44" height="44" />
+      <br>Arduino
+    </td>
+  </tr>
+</table>
+
+
+<h2 align="center">Github Stats</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yevhen-martynenko/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevhen-martynenko&layout=compact&theme=dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=yevhen-martynenko&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<h2 align="center">Setup</h2>
+
+<ul>
+  <li><strong>OS:</strong><br>
+    - Main: Manjaro Linux — Sway/Wayland<br>
+    - Dual Boot: Arch Linux, Kali Linux — KDE, i3wm, plain kernel setup
+  </li>
+  <li><strong>Browser:</strong> Firefox & Vivaldi</li>
+  <li><strong>Terminal:</strong> Kitty & Alacritty</li>
+  <li><strong>Shell:</strong> Fish</li>
+  <li><strong>Code Editor:</strong> mainly Neovim, occasionally JetBrains IDEs</li>
+  <li><strong>Other Tools:</strong> ChatGPT, Oracle VirtualBox, Trello, Slack, Signal, and whatever else gets the job done</li>
+</ul>
+
+
+<h2 align="center">Projects</h2>
+
+<h4 align="center">Web Applications</h4>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/yevhen-martynenko/django-polls-app" title="Polls App">
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=yevhen-martynenko&repo=django-polls-app&theme=dark&border_color=70e18a&border_radius=10">
+  </a>
+  <!-- <a align="right" href="https://github.com/yevhen-martynenko/python-cli-image-sorter" title="Image Sorter"> -->
+  <!--   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=yevhen-martynenko&repo=python-cli-image-sorter&theme=dark&border_color=70e18a&border_radius=10"> -->
+  <!-- </a> -->
+</div>
+<br><br><br><br><br>
+
+<h4 align="center">Command-Line Tools (CLI)</h4>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/yevhen-martynenko/python-cli-image-sorter" title="Image Sorter">
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=yevhen-martynenko&repo=python-cli-image-sorter&theme=dark&border_color=70e18a&border_radius=10">
+  </a>
+</div>
+<br><br><br><br><br>
