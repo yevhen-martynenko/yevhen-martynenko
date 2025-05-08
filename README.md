@@ -44,7 +44,7 @@ class YevhenMartynenko:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yevhen.martynenko.v@gmail.com)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:yevhen.martynenko@proton.me)
 
-- [View My CV](./assets/Backend_Developer_YevhenMartynenko_CV.pdf)
+- [View My CV](./assets/BackendDeveloper_YevhenMartynenko_CV.pdf)
 - [Personal Website](https://yevhen-martynenko.github.io)
 - Gmail: <a href="mailto:yevhen.martynenko.v@gmail.com">yevhen.martynenko.v@gmail.com</a>
 - ProtonMail: <a href="mailto:yevhen.martynenko@proton.me">yevhen.martynenko@proton.me</a>
@@ -253,9 +253,10 @@ class YevhenMartynenko:
     </td>
   </tr>
   <tr>
-    <td>
+    <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=yevhen-martynenko&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+    <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=yevhen-martynenko&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+        <img align="center" src="https://streak-stats.demolab.com?user=yevhen-martynenko&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
       </a>
     </td>
   </tr>
