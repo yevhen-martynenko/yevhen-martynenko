@@ -299,15 +299,15 @@ class YevhenMartynenko:
 </div>
 <br><br><br><br><br>
 
-<h4 align="center">Command-Line Tools (CLI)</h4>
+<!-- <h4 align="center">Command-Line Tools (CLI)</h4> -->
+<!-- <h4 align="center">Desktop Applications</h4> -->
+<h4 align="center">Applications</h4>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/yevhen-martynenko/python-cli-image-sorter" title="Image Sorter">
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=yevhen-martynenko&repo=python-cli-image-sorter&theme=dark&border_color=70e18a&border_radius=10">
   </a>
 </div>
-<br><br><br><br><br>
 
-<h4 align="center">Desktop Applications</h4>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/yevhen-martynenko/tkinter-password-generator" title="Password Generator">
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=yevhen-martynenko&repo=tkinter-password-generator&theme=dark&border_color=70e18a&border_radius=10">
