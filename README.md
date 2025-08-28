@@ -38,8 +38,8 @@ class YevhenMartynenko:
 
 <h2 align="center">Contacts</h2>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenmartynenko/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/martinyev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhen-martynenko-v/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yevhen.martynenko)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yevhen-martynenko)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yevhen.martynenko.v@gmail.com)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:yevhen.martynenko@proton.me)
@@ -285,9 +285,17 @@ class YevhenMartynenko:
   <a align="left" href="https://github.com/yevhen-martynenko/django-polls-app" title="Polls App">
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=yevhen-martynenko&repo=django-polls-app&theme=dark&border_color=70e18a&border_radius=10">
   </a>
-  <!-- <a align="right" href="https://github.com/yevhen-martynenko/python-cli-image-sorter" title="Image Sorter"> -->
-  <!--   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=yevhen-martynenko&repo=python-cli-image-sorter&theme=dark&border_color=70e18a&border_radius=10"> -->
-  <!-- </a> -->
+  <a align="right" href="https://github.com/yevhen-martynenko/django-recipe-webapp" title="Recipe App">
+    <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=yevhen-martynenko&repo=django-recipe-webapp&theme=dark&border_color=70e18a&border_radius=10">
+  </a>
+</div>
+<br><br><br><br><br>
+
+<h4 align="center">Landing Pages</h4>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/yevhen-martynenko/yevhen-martynenko.github.io" title="Personal Website">
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=yevhen-martynenko&repo=yevhen-martynenko.github.io&theme=dark&border_color=70e18a&border_radius=10">
+  </a>
 </div>
 <br><br><br><br><br>
 
@@ -295,6 +303,14 @@ class YevhenMartynenko:
 <div width="100%" align="center">
   <a align="left" href="https://github.com/yevhen-martynenko/python-cli-image-sorter" title="Image Sorter">
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=yevhen-martynenko&repo=python-cli-image-sorter&theme=dark&border_color=70e18a&border_radius=10">
+  </a>
+</div>
+<br><br><br><br><br>
+
+<h4 align="center">Desktop Applications</h4>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/yevhen-martynenko/tkinter-password-generator" title="Password Generator">
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=yevhen-martynenko&repo=tkinter-password-generator&theme=dark&border_color=70e18a&border_radius=10">
   </a>
 </div>
 <br><br><br><br><br>
